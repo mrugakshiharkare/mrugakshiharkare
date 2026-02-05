@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me  
 
 I am a **Data Analyst and Machine Learning enthusiast** with hands-on experience in **Python, SQL, Power BI, and machine learning models**.  
-I enjoy working with real-world datasets — cleaning data, performing exploratory analysis, building dashboards, and creating predictive models to extract meaningful insights.
+I enjoy working with real-world datasets - cleaning data, performing exploratory analysis, building dashboards, and creating predictive models to extract meaningful insights.
 
 I believe in **learning by building projects**, and I’m continuously improving my skills in data analysis, visualization, and machine learning.
 
