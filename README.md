@@ -39,42 +39,20 @@ I believe in **learning by building projects**, and I’m continuously improving
 
 ## 📂 Projects  
 
-### 📊 Telangana Weather Patterns Analysis  
-**Tech:** Python, Pandas, Power BI, Matplotlib  
-- Analyzed 10,000+ historical weather records  
-- Performed EDA and reduced data inconsistencies by ~30%  
-- Computed KPIs like average temperature and monthly rainfall  
-- Created clear visualizations to compare seasonal patterns  
+### 📂 Project Gallery
 
-🔗 Repo:  
-👉 https://github.com/mrugakshiharkare/Telangana-Weather-Patterns  
-
----
-
-### 🍎 Apple Market Trend Analysis  
-**Tech:** Python, Pandas, Power BI, Matplotlib  
-- Collected and cleaned real-world apple market data  
-- Identified seasonal pricing and demand trends  
-- Built interactive Power BI dashboards improving reporting speed by ~40%  
-
-🔗 Repo:  
-👉 https://github.com/mrugakshiharkare/Analyzing-Apple-Market-Trends-An-EDA-Approach  
-
----
-
-### ⚡ Energy Consumption Analysis  
-**Tech:** SQL, Python, Pandas, Matplotlib  
-- Structured and analyzed global energy datasets  
-- Studied country-wise energy consumption trends  
-- Automated data processing pipeline improving efficiency by ~50%  
-
-🔗 Repo:  
-👉 https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption-Analysis  
+| Project Name | Tech Stack | Key Achievement | Link |
+| :--- | :--- | :--- | :--- |
+| **🍷 Wine Quality Prediction** | `Python` `Scikit-Learn` `Pandas` | Built a predictive model with **high accuracy** to classify wine quality based on chemical properties. | [View Repo ➔](https://github.com/mrugakshiharkare/Wine-Quality-Prediction) |
+| **🌦️ Telangana Weather Analysis** | `Python` `Pandas` `Power BI` | Analyzed 10k+ records and **reduced data inconsistencies by 30%** using advanced cleaning techniques. | [View Repo ➔](https://github.com/mrugakshiharkare/Telangana-Weather-Patterns) |
+| **🍎 Apple Market Trends** | `Python` `EDA` `Matplotlib` | Identified seasonal pricing trends and **improved reporting speed by 40%** via Power BI dashboards. | [View Repo ➔](https://github.com/mrugakshiharkare/Analyzing-Apple-Market-Trends-An-EDA-Approach) |
+| **⚡ Energy Consumption Analysis** | `SQL` `Python` `Matplotlib` | Automated data processing pipelines, **increasing efficiency by 50%** for global energy datasets. | [View Repo ➔](https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption-Analysis) |
+| **🛳️ Titanic Classification** | `Machine Learning` `Seaborn` | Implemented exploratory data analysis and feature engineering to predict passenger survival. | [View Repo ➔](https://github.com/mrugakshiharkare/Titanic-Classification) |
 
 ---
 
 ## 📜 Certifications  
-
+- Machine Learning
 - Power BI  
 - Exploratory Data Analysis  
 - Data Analysis with MySQL  
@@ -84,10 +62,12 @@ I believe in **learning by building projects**, and I’m continuously improving
 
 ## 📫 Connect With Me  
 
-- 📧 Email: mrugakshiharkare2003@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/mrugakshi-harkare-ab4701251  
-- 💻 GitHub: https://github.com/mrugakshiharkare  
+### 📫 Connect with me:
 
+<p align="left">
+<a href="https://linkedin.com/in/mrugakshi-harkare-ab4701251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mrugakshi Harkare" height="30" width="40" /></a>
+<a href="mailto:mrugakshiharkare2003@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mrugakshiharkare2003" height="30" width="40" /></a>
+</p>
 ---
 
 ⭐ *If you like my work, feel free to explore my repositories and give a star!*  
