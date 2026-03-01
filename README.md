@@ -58,15 +58,14 @@ I believe in **learning by building projects**, and I’m continuously improving
 - Python Programming  
 
 ---
-
-## 📫 Connect With Me  
-
-### 📫 Connect with me:
+### 🤝 Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/mrugakshi-harkare-ab4701251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mrugakshi Harkare" height="30" width="40" /></a>
-<a href="mailto:mrugakshiharkare2003@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mrugakshiharkare2003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrugakshi-harkare-ab4701251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mrugakshi Harkare" /></a>
+<a href="mailto:mrugakshiharkare2003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mrugakshiharkare2003" /></a>
+<a href="https://github.com/mrugakshiharkare" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="mrugakshiharkare" /></a>
 </p>
----
+
+> **I am actively looking for Data Analyst and Machine Learning opportunities!** If you have a project in mind or just want to talk about data, feel free to reach out. 🚀
 
 ⭐ *If you like my work, feel free to explore my repositories and give a star!*  
