@@ -9,7 +9,7 @@ I love taking raw datasets and finding the stories they tell. My goal is to tran
 - 🤖 **Machine Learning:** Learning how to build and evaluate predictive models.
 - 📊 **Visualization:** Creating clear, simple dashboards in Power BI.
 
-*Always open to feedback and looking for opportunities to grow as a Data Professional!*
+> **Always open to feedback and looking for opportunities to grow as a Data Professional!**
 ---
 ## 🛠️ Technical Skills
 
