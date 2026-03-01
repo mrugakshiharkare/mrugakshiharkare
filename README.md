@@ -15,6 +15,12 @@ I believe in **learning by building projects**, and I’m continuously improving
 
 ### 🛠️ Technical Skills
 
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrugakshiharkare&show_icons=true&theme=tokyonight" alt="Mrugakshi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrugakshiharkare&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
 #### 🐍 Languages & Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
