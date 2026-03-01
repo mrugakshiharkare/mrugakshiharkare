@@ -47,7 +47,6 @@ I believe in **learning by building projects**, and I’m continuously improving
 | **🌦️ Telangana Weather Analysis** | `Python` `Pandas` `Power BI` | Analyzed 10k+ records and **reduced data inconsistencies by 30%** using advanced cleaning techniques. | [View Repo ➔](https://github.com/mrugakshiharkare/Telangana-Weather-Patterns) |
 | **🍎 Apple Market Trends** | `Python` `EDA` `Matplotlib` | Identified seasonal pricing trends and **improved reporting speed by 40%** via Power BI dashboards. | [View Repo ➔](https://github.com/mrugakshiharkare/Analyzing-Apple-Market-Trends-An-EDA-Approach) |
 | **⚡ Energy Consumption Analysis** | `SQL` `Python` `Matplotlib` | Automated data processing pipelines, **increasing efficiency by 50%** for global energy datasets. | [View Repo ➔](https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption-Analysis) |
-| **🛳️ Titanic Classification** | `Machine Learning` `Seaborn` | Implemented exploratory data analysis and feature engineering to predict passenger survival. | [View Repo ➔](https://github.com/mrugakshiharkare/Titanic-Classification) |
 
 ---
 
