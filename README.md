@@ -1,16 +1,15 @@
-# Hi there 👋 I'm Mrugakshi Harkare  
+# 👋 Hi, I'm Mrugakshi!
+I am a **Data Science & ML Enthusiast** currently honing my skills through hands-on projects and professional certification at **Innomatics Research Labs**. 
 
-📊 Data Analyst | 🤖 Machine Learning Enthusiast  
+I love taking raw datasets and finding the stories they tell. My goal is to transition into a **Data Analyst** role where I can continue learning and contribute to data-driven solutions.
 
----
+**What I'm focused on right now:**
+- 🔍 **Data Cleaning & EDA:** Making sure data is accurate and ready for analysis.
+- 🐍 **Python & SQL:** Building a solid foundation for data manipulation.
+- 🤖 **Machine Learning:** Learning how to build and evaluate predictive models.
+- 📊 **Visualization:** Creating clear, simple dashboards in Power BI.
 
-## 👩‍💻 About Me  
-
-I am a **Data Analyst and Machine Learning enthusiast** with hands-on experience in **Python, SQL, Power BI, and machine learning models**.  
-I enjoy working with real-world datasets : cleaning data, performing exploratory analysis, building dashboards, and creating predictive models to extract meaningful insights.
-
-I believe in **learning by building projects**, and I’m continuously improving my skills in data analysis, visualization, and machine learning.
-
+*Always open to feedback and looking for opportunities to grow as a Data Professional!*
 ---
 ## 🛠️ Technical Skills
 
