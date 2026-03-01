@@ -35,11 +35,8 @@ I believe in **learning by building projects**, and I’m continuously improving
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## 📂 Projects  
-
-### 📂 Project Gallery
+--- 
+## 📂 Project Gallery
 
 | Project Name | Tech Stack | Key Achievement | Link |
 | :--- | :--- | :--- | :--- |
@@ -49,14 +46,17 @@ I believe in **learning by building projects**, and I’m continuously improving
 | **⚡ Energy Consumption Analysis** | `SQL` `Python` `Matplotlib` | Automated data processing pipelines, **increasing efficiency by 50%** for global energy datasets. | [View Repo ➔](https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption-Analysis) |
 
 ---
+### 📜 Certifications & Verifiable Skills
 
-## 📜 Certifications  
-- Machine Learning
-- Power BI  
-- Exploratory Data Analysis  
-- Data Analysis with MySQL  
-- Python Programming  
+| Certificate Name | Issuing Organization | Status | Verification Link |
+| :--- | :--- | :--- | :--- |
+| **🐍 Python Programming** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1nG1YTFdIxZ4NaF98lUtneIZTFEuFbWXv/view?usp=drive_link) |
+| **🗄️ Data Analysis with MySQL** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1bGFyYHLgNv_Au1XYJX3MdWMQnnGOpd9r/view?usp=drive_link) |
+| **📊 Exploratory Data Analysis** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/13s_qEVzdqcsvAuYuSo8YG5P8HOwn70qY/view?usp=drive_link) |
+| **📈 Power BI** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1Sgop2gWT-ucluDnJJdkfrWDZ8vudFDFL/view?usp=drive_link) |
+| **🤖 Machine Learning** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
 
+---
 ---
 ### 🤝 Let's Connect!
 
