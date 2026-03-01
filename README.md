@@ -12,13 +12,6 @@ I enjoy working with real-world datasets : cleaning data, performing exploratory
 I believe in **learning by building projects**, and I’m continuously improving my skills in data analysis, visualization, and machine learning.
 
 ---
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mrugakshiharkare&show_icons=true&theme=tokyonight" alt="Mrugakshi's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrugakshiharkare&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
---- 
 ### 🛠️ Technical Skills
 
 #### 🐍 Languages & Libraries
