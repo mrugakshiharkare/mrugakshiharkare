@@ -12,7 +12,7 @@ I enjoy working with real-world datasets : cleaning data, performing exploratory
 I believe in **learning by building projects**, and I’m continuously improving my skills in data analysis, visualization, and machine learning.
 
 ---
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 #### 🐍 Languages & Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,7 +46,7 @@ I believe in **learning by building projects**, and I’m continuously improving
 | **⚡ Energy Consumption Analysis** | `SQL` `Python` `Matplotlib` | Automated data processing pipelines, **increasing efficiency by 50%** for global energy datasets. | [View Repo ➔](https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption-Analysis) |
 
 ---
-### 📜 Certifications & Verifiable Skills
+## 📜 Certifications & Verifiable Skills
 
 | Certificate Name | Issuing Organization | Status | Verification Link |
 | :--- | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ I believe in **learning by building projects**, and I’m continuously improving
 
 ---
 ---
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 <p align="left">
 <a href="https://linkedin.com/in/mrugakshi-harkare-ab4701251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mrugakshi Harkare" /></a>
