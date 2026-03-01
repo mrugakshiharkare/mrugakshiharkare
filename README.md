@@ -67,5 +67,3 @@ I believe in **learning by building projects**, and I’m continuously improving
 </p>
 
 > **I am actively looking for Data Analyst and Machine Learning opportunities!** If you have a project in mind or just want to talk about data, feel free to reach out. 🚀
-
-⭐ *If you like my work, feel free to explore my repositories and give a star!*  
