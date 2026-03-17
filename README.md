@@ -47,13 +47,30 @@ I love taking raw datasets and finding the stories they tell. My goal is to tran
 ---
 ## 📜 Certifications & Verifiable Skills
 
-| Certificate Name | Issuing Organization | Status | Verification Link |
-| :--- | :--- | :--- | :--- |
-| **🐍 Python Programming** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1nG1YTFdIxZ4NaF98lUtneIZTFEuFbWXv/view?usp=drive_link) |
-| **🗄️ Data Analysis with MySQL** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1bGFyYHLgNv_Au1XYJX3MdWMQnnGOpd9r/view?usp=drive_link) |
-| **📊 Exploratory Data Analysis** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/13s_qEVzdqcsvAuYuSo8YG5P8HOwn70qY/view?usp=drive_link) |
-| **📈 Power BI** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1Sgop2gWT-ucluDnJJdkfrWDZ8vudFDFL/view?usp=drive_link) |
-| **🤖 Machine Learning** | Innomatics Research Labs | ✅ Completed | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
+### 📜 Certifications & Verifiable Skills
+
+| Certificate Name | Issuing Organization | Verification Link |
+| :--- | :--- | :--- |
+| **🧠 Deep Learning** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
+| **🏆 SQL (Intermediate)** | HackerRank | [Verify Achievement ➔](https://drive.google.com/file/d/1-5CKrerao95I6KbNzV3miB5RTkml-YV0/view?usp=drive_link) |
+| **🏆 SQL (Basic)** | HackerRank | [Verify Achievement ➔](https://drive.google.com/file/d/1ybdetoS5GieF9HN2QbGq_XmtkGScaznL/view?usp=drive_link) |
+| **🤖 Machine Learning** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
+| **📈 Power BI** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1Sgop2gWT-ucluDnJJdkfrWDZ8vudFDFL/view?usp=drive_link) |
+| **📊 Exploratory Data Analysis** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/13s_qEVzdqcsvAuYuSo8YG5P8HOwn70qY/view?usp=drive_link) |
+| **🗄️ Data Analysis with MySQL** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1bGFyYHLgNv_Au1XYJX3MdWMQnnGOpd9r/view?usp=drive_link) |
+| **🐍 Python Programming** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1nG1YTFdIxZ4NaF98lUtneIZTFEuFbWXv/view?usp=drive_link) |
+
+---
+
+### 🛠️ Technical Toolkit
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 ---
