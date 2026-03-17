@@ -23,13 +23,19 @@ I love taking raw datasets and finding the stories they tell. My goal is to tran
 #### 📊 Visualization & BI Tools
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-0078D4?style=for-the-badge&logo=brain&logoColor=white)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-512BD4?style=for-the-badge&logo=circuit-board&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2ea44f?style=for-the-badge&logo=check-circle&logoColor=white)
+
+### 🧠 Deep Learning & Advanced AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=molecule&logoColor=white)
+![ANN/CNN/RNN](https://img.shields.io/badge/ANN%20%7C%20CNN%20%7C%20RNN-8E44AD?style=for-the-badge&logo=brain&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
