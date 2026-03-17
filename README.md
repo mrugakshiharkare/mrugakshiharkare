@@ -51,7 +51,7 @@ I love taking raw datasets and finding the stories they tell. My goal is to tran
 
 | Certificate Name | Issuing Organization | Verification Link |
 | :--- | :--- | :--- |
-| **🧠 Deep Learning** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
+| **🧠 Deep Learning** | Innomatics Research Labs | [View Certificate ➔]() |
 | **🏆 SQL (Intermediate)** | HackerRank | [Verify Achievement ➔](https://drive.google.com/file/d/1-5CKrerao95I6KbNzV3miB5RTkml-YV0/view?usp=drive_link) |
 | **🏆 SQL (Basic)** | HackerRank | [Verify Achievement ➔](https://drive.google.com/file/d/1ybdetoS5GieF9HN2QbGq_XmtkGScaznL/view?usp=drive_link) |
 | **🤖 Machine Learning** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
