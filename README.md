@@ -47,8 +47,6 @@ I love taking raw datasets and finding the stories they tell. My goal is to tran
 ---
 ## 📜 Certifications & Verifiable Skills
 
-### 📜 Certifications & Verifiable Skills
-
 | Certificate Name | Issuing Organization | Verification Link |
 | :--- | :--- | :--- |
 | **🧠 Deep Learning** | Innomatics Research Labs | [View Certificate ➔]() |
