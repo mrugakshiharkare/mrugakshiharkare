@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mrugakshi!
+
 I am a **Data Science & AI/ML Enthusiast** currently honing my skills through hands-on projects and professional certification at **Innomatics Research Labs**. 
 
 I love taking raw datasets and finding the stories they tell. My goal is to transition into a **Data Analyst** role where I can continue learning and contribute to data-driven solutions.
