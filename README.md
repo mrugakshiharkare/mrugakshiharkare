@@ -1,94 +1,100 @@
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2CB&center=true&vCenter=true&width=700&lines=Mrugakshi+Harkare+-+Data+Analyst+%7C+AI%2FML+Enthusiast;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" />
+</p>
+
+---
+
 # 👋 Hi, I'm Mrugakshi!
 
-I am a **Data Science & AI/ML Enthusiast** currently honing my skills through hands-on projects and professional certification at **Innomatics Research Labs**. 
+🎯 **Data Analyst | Aspiring Data Scientist | AI/ML Enthusiast**
 
-I love taking raw datasets and finding the stories they tell. My goal is to transition into a **Data Analyst** role where I can continue learning and contribute to data-driven solutions.
+I specialize in transforming raw data into meaningful insights using **Python, SQL, and Power BI**.  
+With hands-on experience in **EDA, machine learning, and data visualization**, I focus on solving real-world problems through data-driven approaches.  
 
-**What I'm focused on right now:**
-
-- 🔍 **Data Cleaning & EDA:** Making sure data is accurate and ready for analysis.
-- 🐍 **Python & SQL:** Building a solid foundation for data manipulation.
-- 🤖 **Machine Learning:** Learning how to build and evaluate predictive models.
-- 📊 **Visualization:** Creating clear, simple dashboards in Power BI.
-> **Always open to feedback and looking for opportunities to grow as a Data Professional!**
+Currently, I am strengthening my expertise through practical projects and industry-oriented training at **Innomatics Research Labs**, aiming to contribute effectively to analytics and AI-driven solutions.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-#### 🐍 Languages & Libraries
+### 🐍 Languages & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4470AD?style=for-the-badge"/>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=python&logoColor=white)
-
-#### 📊 Visualization & BI Tools
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 📊 Data & BI Tools
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+</p>
 
 ### 🤖 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Supervised%20Learning-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-2ea44f?style=for-the-badge"/>
+</p>
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-0078D4?style=for-the-badge&logo=brain&logoColor=white)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-512BD4?style=for-the-badge&logo=circuit-board&logoColor=white)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2ea44f?style=for-the-badge&logo=check-circle&logoColor=white)
-
-### 🧠 Deep Learning & Advanced AI
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=molecule&logoColor=white)
-![ANN/CNN/RNN](https://img.shields.io/badge/ANN%20%7C%20CNN%20%7C%20RNN-8E44AD?style=for-the-badge&logo=brain&logoColor=white)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
---- 
-
-## 📂 Project Gallery
-| Project Name | Tech Stack | Key Achievement | Link |
-| :--- | :--- | :--- | :--- |
-| **🍷 Wine Quality Prediction** | `Python` `Scikit-Learn` `Pandas` | Built a predictive model with **high accuracy** to classify wine quality based on chemical properties. | [View Repo ➔](https://github.com/mrugakshiharkare/Wine-Quality-Prediction) |
-| **🌦️ Telangana Weather Analysis** | `Python` `Pandas` `Power BI` | Analyzed 10k+ records and **reduced data inconsistencies by 30%** using advanced cleaning techniques. | [View Repo ➔](https://github.com/mrugakshiharkare/Telangana-Weather-Patterns) |
-| **🍎 Apple Market Trends** | `Python` `EDA` `Matplotlib` | Identified seasonal pricing trends and **improved reporting speed by 40%** via Power BI dashboards. | [View Repo ➔](https://github.com/mrugakshiharkare/Analyzing-Apple-Market-Trends-An-EDA-Approach) |
-| **⚡ Energy Consumption Analysis** | `SQL` `Python` `Matplotlib` | Automated data processing pipelines, **increasing efficiency by 50%** for global energy datasets. | [View Repo ➔](https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption-Analysis) |
-
----
-### 📜 Certifications & Verifiable Skills
-
-| Certificate Name | Issuing Organization | Verification Link |
-| :--- | :--- | :--- |
-| **🧠 Deep Learning** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
-| **🏆 SQL (Intermediate)** | HackerRank | [Verify Achievement ➔](https://drive.google.com/file/d/1-5CKrerao95I6KbNzV3miB5RTkml-YV0/view?usp=drive_link) |
-| **🏆 SQL (Basic)** | HackerRank | [Verify Achievement ➔](https://drive.google.com/file/d/1ybdetoS5GieF9HN2QbGq_XmtkGScaznL/view?usp=drive_link) |
-| **🤖 Machine Learning** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1qG2J3LuL2tTT-tCqU-aP9wIMADkiqZM9/view?usp=drive_link) |
-| **📈 Power BI** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1Sgop2gWT-ucluDnJJdkfrWDZ8vudFDFL/view?usp=drive_link) |
-| **📊 Exploratory Data Analysis** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/13s_qEVzdqcsvAuYuSo8YG5P8HOwn70qY/view?usp=drive_link) |
-| **🗄️ Data Analysis with MySQL** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1bGFyYHLgNv_Au1XYJX3MdWMQnnGOpd9r/view?usp=drive_link) |
-| **🐍 Python Programming** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1nG1YTFdIxZ4NaF98lUtneIZTFEuFbWXv/view?usp=drive_link) |
-
----
-
-### 🛠️ Technical Toolkit
-<p align="left">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+### 🧠 Deep Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge"/>
 </p>
 
 ---
-## 🤝 Let's Connect!
-<p align="left">
-<a href="https://linkedin.com/in/mrugakshi-harkare-ab4701251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mrugakshi Harkare" /></a>
-<a href="mailto:mrugakshiharkare2003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mrugakshiharkare2003" /></a>
-<a href="https://github.com/mrugakshiharkare" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="mrugakshiharkare" /></a>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrugakshiharkare&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrugakshiharkare&layout=compact&theme=tokyonight" />
 </p>
 
-  >**I am actively looking for Data Analyst and Machine Learning opportunities!** If you have a project in mind or just want to talk about data, feel free to reach out. 🚀
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrugakshiharkare&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Tech Stack | Impact |
+|--------|-----------|--------|
+| 🍷 **Wine Quality Prediction** | Python, Scikit-Learn | Built ML model to classify wine quality with high accuracy |
+| 🌦️ **Weather Data Analysis** | Python, Power BI | Cleaned 10k+ records & improved data quality by 30% |
+| 🍎 **Apple Market Trends** | Python, EDA | Identified seasonal trends & improved reporting efficiency |
+| ⚡ **Energy Consumption Analysis** | SQL, Python | Automated workflows improving efficiency by 50% |
+
+---
+
+# 🚀 Current Focus
+
+- 🔍 Advanced **EDA & Data Cleaning Techniques**
+- 🤖 Improving **Machine Learning Model Performance**
+- 📊 Building **Interactive Dashboards (Power BI)**
+- ⚡ Developing **End-to-End Data Projects**
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mrugakshi-harkare-ab4701251">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mrugakshiharkare2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ *Actively seeking opportunities in Data Analytics & AI/ML. Open to collaborations and impactful projects!*
