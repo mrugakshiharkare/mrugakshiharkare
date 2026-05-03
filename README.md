@@ -40,15 +40,14 @@ I am focused on solving real-world problems through data-driven approaches and i
 - ☁️ Exploring **AWS for scalable AI deployment**
 
 ---
-# 📂 Featured Projects
+# 📂 Featured Latest Projects
 
-| Project | Tech Stack | Impact | Link |
-|--------|-----------|--------|------|
-| 🤖 GenAI Career Chatbot | Streamlit, LLMs | Built intelligent career assistant | [View](https://github.com/mrugakshiharkare/career-advice-chatbot) |
-| 🍷 Wine Quality Prediction | Python, ML | Built high-accuracy classification model | [View](https://github.com/mrugakshiharkare/Wine-Quality-Prediction) |
-| 🌦️ Telangana Weather Analysis | Python, Power BI | Cleaned & analyzed 10k+ records | [View](https://github.com/mrugakshiharkare/Telangana-Weather-Patterns) |
-| 🍎 Apple Market Analysis | Python, EDA | Identified pricing trends & insights | [View](https://github.com/mrugakshiharkare/Analyzing-Apple-Market-Trends-An-EDA-Approach) |
-| ⚡ Energy Consumption Analysis | SQL, Python | Automated global dataset analysis | [View](https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption-Analysis) |
+| 🚀 Project | 💻 Tech Stack | 📊 Impact |
+|-----------|-------------|----------|
+| ⚡ **Solar Load Calculator** | `Python` `ML` `Streamlit` | Intelligent system to estimate solar requirements using energy consumption patterns |
+| 🧠 **NL2SQL System** | `LLM` `SQL` `FastAPI` | Converts natural language into SQL queries for real-time database interaction |
+| 🤖 **GenAI Career Chatbot** | `LangChain` `RAG` `Streamlit` | Built conversational AI for career guidance using LLM + context retrieval |
+| 🍷 **Wine Quality Prediction** | `Scikit-Learn` `EDA` | Achieved high accuracy classification model using chemical properties |
 
 
 ---
