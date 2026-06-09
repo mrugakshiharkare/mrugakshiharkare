@@ -59,6 +59,6 @@ I am focused on solving real-world problems through data-driven approaches and i
 - 📈 EDA – Innomatics  
 - 🗄️ MySQL – Innomatics  
 - 🐍 Python – Innomatics  
-- 🏆 SQL (Basic & Intermediate) – HackerRank  
+- 🏆 SQL (Basic,Intermediate,Advanced) – HackerRank  
 
 ---
